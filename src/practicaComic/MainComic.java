@@ -1,13 +1,10 @@
 package practicaComic;
 
 import innovaccion.imonsh.Screen;
-import practicaComic.interfaces.Hoja;
-import practicaComic.interfaces.Seccion;
-import practicaComic.interfaces.imp.*;
-import practicaComic.pojos.Accion;
-
-import java.util.ArrayList;
-import java.util.List;
+import practicaComic.interfaces.imp.ContenidoHoja1imp;
+import practicaComic.interfaces.imp.ContenidoHoja2imp;
+import practicaComic.interfaces.imp.HojaImp;
+import practicaComic.interfaces.imp.PortadaImp;
 
 public class MainComic {
 
