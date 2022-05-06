@@ -19,16 +19,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../Librerias/java/jmf-2.1.1e.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../Librerias/java/jlayer-1.0.1.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../Librerias/java/jaco-mp3-player-0.9.3/jaco-mp3-player-0.9.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
